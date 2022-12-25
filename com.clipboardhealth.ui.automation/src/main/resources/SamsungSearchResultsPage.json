@@ -1,0 +1,5 @@
+{
+  "sort_by": "//select[@id='s-result-sort-select']",
+  "high_to_low_menu_item": "//a[text()='Price: High to Low']",
+  "searched_result_2": "//div[@data-cel-widget='search_result_2']//a",
+}

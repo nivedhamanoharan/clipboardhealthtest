@@ -1,0 +1,4 @@
+{
+  "samsung_menu": "//span[text()='Samsung']/..",
+  "brands_filter": "//span[text()='Brands']"
+}

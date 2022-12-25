@@ -1,0 +1,12 @@
+<?xml version = "1.0"encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Clipboard Health Test Suite">
+    <listeners>
+        <listener class-name="utils.TestExecutionListener"></listener>
+    </listeners>
+    <test name = "Clipboard Health Test">
+        <classes>
+            <class name = "ClipboardHealthTest"/>
+        </classes>
+    </test>
+</suite>

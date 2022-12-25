@@ -1,0 +1,6 @@
+{
+  "all_hamburger_menu": "//a[@id='nav-hamburger-menu']",
+  "shop_by_category_section": "//div[text()='shop by category']",
+  "tv_appliance_electronics_menu": "//div[text()='TV, Appliances, Electronics']/..",
+  "televisions_menu": "//a[text()='Televisions']"
+}
